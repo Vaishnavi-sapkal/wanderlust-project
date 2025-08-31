@@ -28,7 +28,12 @@ module.exports.createListing = async (req, res, next) => {
   const response = await fetch(
     `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
       searchQuery
-    )}&limit=1`
+    )}&limit=1`,
+    {
+      headers: {
+        'User-Agent': 'wanderlust-project/1.0 (sapkalvaishnavi192@gmail.com)' 
+      }
+    }
   );
   const data = await response.json();
 
@@ -50,6 +55,7 @@ module.exports.createListing = async (req, res, next) => {
   req.flash("success", "New Listing Created Successfully!");
   res.redirect("/listings");
 };
+
 
 module.exports.renderEditForm = async (req, res) => {
   let { id } = req.params;
