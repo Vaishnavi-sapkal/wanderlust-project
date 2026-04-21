@@ -130,13 +130,13 @@ Visit `http://localhost:8080` in your browser.
 
 ## 📸 Screenshots
 
-| Home Page | Listing Detail |
+| Home Page | Listing Form |
 |---|---|
-| ![Home](https://github.com/user-attachments/assets/b09f7f17-c6ba-4e56-a012-2f52e61e9174) | ![Listing](https://github.com/user-attachments/assets/e91c0b6c-418a-417c-a88b-d28ca1ea3d0e) |
+| ![Home](https://github.com/user-attachments/assets/055aac5c-2a90-4e0c-947d-0cd80218e5bd) | ![Listing](https://github.com/user-attachments/assets/b09f7f17-c6ba-4e56-a012-2f52e61e9174) |
 
-![Preview 1](https://github.com/user-attachments/assets/055aac5c-2a90-4e0c-947d-0cd80218e5bd)
-![Preview 2](https://github.com/user-attachments/assets/2f15d021-a410-4d8a-be8e-e147ebb8db32)
-![Preview 3](https://github.com/user-attachments/assets/0be432a9-1c85-42c8-ac8c-f3dd66afbc09)
+| Listing Detail 1 | Listing Detail 2 |  Listing Detail 3 |
+|---|---|---|
+| ![Preview 2](https://github.com/user-attachments/assets/2f15d021-a410-4d8a-be8e-e147ebb8db32) | ![Listing](https://github.com/user-attachments/assets/e91c0b6c-418a-417c-a88b-d28ca1ea3d0e) | ![Preview 3](https://github.com/user-attachments/assets/0be432a9-1c85-42c8-ac8c-f3dd66afbc09) |
 ---
 
 ## 🙋‍♀️ Author
