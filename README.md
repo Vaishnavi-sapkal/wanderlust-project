@@ -130,8 +130,12 @@ Visit `http://localhost:8080` in your browser.
 
 | Home Page | Listing Detail |
 |---|---|
-| ![Home](./public/assets/home.png) | ![Listing](./public/assets/listing.png) |
-
+| ![Home].(https://github.com/user-attachments/assets/b09f7f17-c6ba-4e56-a012-2f52e61e9174)) | ![Listing]([./public/assets/listing.png](https://github.com/user-attachments/assets/e91c0b6c-418a-417c-a88b-d28ca1ea3d0e")) |
+<!-- <img width="1900" height="910" alt="Image" src="https://github.com/user-attachments/assets/055aac5c-2a90-4e0c-947d-0cd80218e5bd" />
+<img width="1898" height="909" alt="Image" src="https://github.com/user-attachments/assets/2f15d021-a410-4d8a-be8e-e147ebb8db32" />
+<img width="1900" height="833" alt="Image" src="https://github.com/user-attachments/assets/0be432a9-1c85-42c8-ac8c-f3dd66afbc09" />
+<img width="1897" height="906" alt="Image" src="https://github.com/user-attachments/assets/e91c0b6c-418a-417c-a88b-d28ca1ea3d0e" />
+<img width="1898" height="911" alt="Image" src="https://github.com/user-attachments/assets/b09f7f17-c6ba-4e56-a012-2f52e61e9174" /> -->
 ---
 
 ## 🙋‍♀️ Author
