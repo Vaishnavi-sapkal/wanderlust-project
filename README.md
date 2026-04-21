@@ -124,9 +124,6 @@ Visit `http://localhost:8080` in your browser.
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots of your project here)*
 
 ## 📸 Screenshots
 
