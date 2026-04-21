@@ -136,7 +136,7 @@ Visit `http://localhost:8080` in your browser.
 
 | Listing Detail 1 | Listing Detail 2 |  Listing Detail 3 |
 |---|---|---|
-| ![Preview 2](https://github.com/user-attachments/assets/2f15d021-a410-4d8a-be8e-e147ebb8db32) | ![Listing](https://github.com/user-attachments/assets/e91c0b6c-418a-417c-a88b-d28ca1ea3d0e) | ![Preview 3](https://github.com/user-attachments/assets/0be432a9-1c85-42c8-ac8c-f3dd66afbc09) |
+| ![Preview 2](https://github.com/user-attachments/assets/2f15d021-a410-4d8a-be8e-e147ebb8db32) | ![Preview 3](https://github.com/user-attachments/assets/0be432a9-1c85-42c8-ac8c-f3dd66afbc09) | ![Listing](https://github.com/user-attachments/assets/e91c0b6c-418a-417c-a88b-d28ca1ea3d0e) |
 ---
 
 ## 🙋‍♀️ Author
